@@ -7,14 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD0DC14E210519EF00C8C327 /* GoogLeNetPlaces.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = DD0DC14D210519EF00C8C327 /* GoogLeNetPlaces.mlmodel */; };
 		DDD22D9F21047C7C001FCF67 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDD22D9E21047C7C001FCF67 /* AppDelegate.swift */; };
 		DDD22DA121047C7C001FCF67 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDD22DA021047C7C001FCF67 /* ViewController.swift */; };
 		DDD22DA421047C7C001FCF67 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDD22DA221047C7C001FCF67 /* Main.storyboard */; };
 		DDD22DA621047C7E001FCF67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDD22DA521047C7E001FCF67 /* Assets.xcassets */; };
 		DDD22DA921047C7E001FCF67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDD22DA721047C7E001FCF67 /* LaunchScreen.storyboard */; };
+		DDD22DB121048004001FCF67 /* double_click_touch_click_finger_hand_select_gesture-512.png in Resources */ = {isa = PBXBuildFile; fileRef = DDD22DB021048004001FCF67 /* double_click_touch_click_finger_hand_select_gesture-512.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DD0DC14D210519EF00C8C327 /* GoogLeNetPlaces.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = GoogLeNetPlaces.mlmodel; sourceTree = "<group>"; };
 		DDD22D9B21047C7C001FCF67 /* artificialintelligenceSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = artificialintelligenceSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDD22D9E21047C7C001FCF67 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DDD22DA021047C7C001FCF67 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +25,7 @@
 		DDD22DA521047C7E001FCF67 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDD22DA821047C7E001FCF67 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DDD22DAA21047C7E001FCF67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDD22DB021048004001FCF67 /* double_click_touch_click_finger_hand_select_gesture-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "double_click_touch_click_finger_hand_select_gesture-512.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +60,11 @@
 			children = (
 				DDD22D9E21047C7C001FCF67 /* AppDelegate.swift */,
 				DDD22DA021047C7C001FCF67 /* ViewController.swift */,
+				DD0DC14D210519EF00C8C327 /* GoogLeNetPlaces.mlmodel */,
 				DDD22DA221047C7C001FCF67 /* Main.storyboard */,
 				DDD22DA521047C7E001FCF67 /* Assets.xcassets */,
 				DDD22DA721047C7E001FCF67 /* LaunchScreen.storyboard */,
+				DDD22DB021048004001FCF67 /* double_click_touch_click_finger_hand_select_gesture-512.png */,
 				DDD22DAA21047C7E001FCF67 /* Info.plist */,
 			);
 			path = artificialintelligenceSwift;
@@ -125,6 +131,7 @@
 				DDD22DA921047C7E001FCF67 /* LaunchScreen.storyboard in Resources */,
 				DDD22DA621047C7E001FCF67 /* Assets.xcassets in Resources */,
 				DDD22DA421047C7C001FCF67 /* Main.storyboard in Resources */,
+				DDD22DB121048004001FCF67 /* double_click_touch_click_finger_hand_select_gesture-512.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +144,7 @@
 			files = (
 				DDD22DA121047C7C001FCF67 /* ViewController.swift in Sources */,
 				DDD22D9F21047C7C001FCF67 /* AppDelegate.swift in Sources */,
+				DD0DC14E210519EF00C8C327 /* GoogLeNetPlaces.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
